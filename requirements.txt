@@ -12,3 +12,4 @@ aiohttp
 cfonts
 telebot
 rich
+google_play_scraper
